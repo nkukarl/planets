@@ -53,3 +53,5 @@ Pat的软件接下来可以使用从证书中获得的Bob的公钥来检查Bob�
 
 这些步骤看起来很复杂，但是他们实际上都实在Pat的软件在后台完成的。
 Pat只需要在签名上点一下就可以验证它了。
+
+reference: http://www.youdzone.com/signature.html
