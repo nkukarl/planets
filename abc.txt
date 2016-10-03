@@ -2,4 +2,3 @@ Some random text here.
 
 This is line 3.
 Edit
-Learn git using atlassian
